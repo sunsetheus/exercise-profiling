@@ -1,3 +1,5 @@
+SCREENSHOOT https://drive.google.com/drive/u/0/folders/1r7_7qq3NKYl_rZ9FFkZjZJdVyQXQu1w5
+
 1. What is the difference between the approach of performance testing with JMeter and profiling with IntelliJ Profiler in the context of optimizing application performance?
 Pendekatan performance testing dengan menggunaman JMeter lebih mentitik beratkan pada performa ketika terdapat user banyak menggunakannya bersamaan. Performa yang dimaksud meliputi waktu respons, output / cara web memberikan respons, waktu mendapatkan respons.
 
